@@ -41,7 +41,7 @@ Load Data into Spark for Advanced Analysis
 4. Find the Top Suspicious IPs
 
 Step-6
-Did some Data Visualization on the processes data.
+Did some Data Visualization on the processed data.
 
 Results & Insights
 
